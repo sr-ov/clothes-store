@@ -1,0 +1,6 @@
+export { default as HomePage } from '@/pages/HomePage.vue'
+export { default as GoodsPage } from '@/pages/GoodsPage.vue'
+export { default as GoodPage } from '@/pages/GoodPage.vue'
+export { default as CartPage } from '@/pages/CartPage.vue'
+export { default as AuthPage } from '@/pages/AuthPage.vue'
+export { default as NotFound } from '@/pages/NotFound.vue'
